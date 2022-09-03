@@ -15,9 +15,9 @@
 # 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦
 "region": "巩义市",
 # 生日1，修改名字为对应需要显示的名字，如果生日为农历，在最前面加上r即可
-"birthday1": {"name": "爸爸", "birthday": "r1969-05-28"},
-"birthday2": {"name": "妈妈", "birthday": "r1969-09-30"},
-"birthday3": {"name": "姐姐", "birthday": "r1994-03-07"},
+"birthday1": {"name": "爸爸", "birthday": "1969-07-12"},
+"birthday2": {"name": "妈妈", "birthday": "1969-11-09"},
+"birthday3": {"name": "姐姐", "birthday": "1994-04-17"},
 "birthday4": {"name": "我", "birthday": "2001-10-19"},
 "birthday5": {"name": "奶奶", "birthday": "1934-08-14"},
 "birthday6": {"name": "姥姥", "birthday": "1950-01-12"},
