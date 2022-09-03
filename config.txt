@@ -23,6 +23,7 @@
 "birthday6": {"name": "姥姥", "birthday": "r1949-11-24"},
 "birthday7": {"name": "姥爷", "birthday": "r1947-11-10"},
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
+"love_date": "",
 "note_ch": "",
 # 金句英文
 "note_en": ""
