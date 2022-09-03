@@ -19,9 +19,9 @@
 "birthday2": {"name": "妈妈", "birthday": "r1969-09-30"},
 "birthday3": {"name": "姐姐", "birthday": "r1994-03-07"},
 "birthday4": {"name": "我", "birthday": "2001-10-19"},
-"birthday5": {"name": "奶奶", "birthday": "r1934-07-05"},
-"birthday6": {"name": "姥姥", "birthday": "r1949-11-24"},
-"birthday7": {"name": "姥爷", "birthday": "r1947-11-10"},
+"birthday5": {"name": "奶奶", "birthday": "1934-08-14"},
+"birthday6": {"name": "姥姥", "birthday": "1950-01-12"},
+"birthday7": {"name": "姥爷", "birthday": "1947-12-21"},
 # 金句中文，如果设置了，则会显示这里的，如果为空，默认会读取金山的每日金句
 "note_ch": "",
 # 金句英文
